@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "@types/node": "^20.10.0",
+    "@types/react": "^18.2.38",
+    "axios": "^1.6.2",
+    "better-sqlite3": "^9.1.1",
+    "firebase": "^10.7.1",
+    "iron-session": "^8.0.1",
+    "next": "^14.0.4",
+    "next-auth": "^4.24.5",
+    "next-iron-session": "^4.2.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.21.1",
+    "sqlite": "^5.1.1",
+    "sqlite3": "^5.1.6"
+  },
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  }
+}
